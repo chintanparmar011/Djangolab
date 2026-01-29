@@ -1,1 +1,1 @@
-# Djangolab1
+# Python-Django assignment work for college
